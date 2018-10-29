@@ -607,14 +607,18 @@ html {
   background: url('data:image/svg+xml;utf8,<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd"><g><path d="M0 0h24v24H0z"/><path d="M14 14.76V3.5a2.5 2.5 0 1 0-5 0v11.26a4.5 4.5 0 1 0 5 0z" stroke-opacity=".4" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><circle fill-opacity=".1" fill="#333" fill-rule="nonzero" cx="11.5" cy="18.5" r="3.5"/></g></g></svg>') center center/contain no-repeat;
 }
 .panel__icon_temp_on {
-  background: url("assets/panel__icon_temp_on.svg") center center/contain no-repeat;
+  /* background: url("assets/panel__icon_temp_on.svg") center center/contain no-repeat; */
+  background: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+ICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPiAgICA8Zz4gICAgICA8cGF0aCBkPSJNMCAwaDI0djI0SDB6Ij48L3BhdGg+ICAgICAgPHBhdGggZD0iTTE0IDE0Ljc2VjMuNWEyLjUgMi41IDAgMSAwLTUgMHYxMS4yNmE0LjUgNC41IDAgMSAwIDUgMHoiIHN0cm9rZT0iI0Y1QTYyMyIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjwvcGF0aD4gICAgICA8Y2lyY2xlIGZpbGw9IiNGRkQ5M0UiIGZpbGwtcnVsZT0ibm9uemVybyIgY3g9IjExLjUiIGN5PSIxOC41IiByPSIzLjUiPjwvY2lyY2xlPiAgICA8L2c+ICA8L2c+PC9zdmc+") center center/contain no-repeat;
 }
 .panel__icon_light_off {
+  /* background: url("assets/panel__icon_light_off.svg") center center/contain no-repeat; */
   background: url("assets/panel__icon_light_off.svg") center center/contain no-repeat;
 }
 .panel__icon_light_on {
+  /* background: url("assets/panel__icon_light_on.svg") center center/contain no-repeat; */
   background: url("assets/panel__icon_light_on.svg") center center/contain no-repeat;
 }
 .panel__icon_clock {
+  /* background: url("assets/panel__icon_clock.svg") center center/contain no-repeat; */
   background: url("assets/panel__icon_clock.svg") center center/contain no-repeat;
 }
